@@ -29,6 +29,7 @@ body {
 }
 .container {
     max-width: 600px;
+    font-size: larger;
 }
 
 
