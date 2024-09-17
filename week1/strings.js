@@ -1,0 +1,10 @@
+let firstName = "John";
+let lastName = "Doe";
+let email = "john.doe@example.com";
+let address = "123 Main St, Anytown, USA";
+let city = "Anytown";
+let country = "USA";
+let favoriteColor = "Blue";
+let occupation = "Software Developer";
+let hobby = "Photography";
+let quote = "The only limit to our realization of tomorrow is our doubts of today.";
