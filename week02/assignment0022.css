@@ -1,0 +1,42 @@
+body {
+    padding-left: 43px;
+    /* font-family: Arial, sans-serif; */
+    background-color: #f7fdf9;
+}
+p{
+    font-size: 72px;
+
+}
+.the{
+
+    font-size: large;
+}
+.search p{
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.father{
+    height: 50px;
+    margin: 0 50px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border-radius: 15px;
+    display: inline-block;
+}
+.search{
+    /* justify-content: center; */
+    height: 34px;
+    width: 233px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 53px;
+    box-sizing: border-box;
+    margin-top: 23px;
+   
+}
