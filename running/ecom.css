@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gold{
+    padding: 21px;
+    margin-left: 15px;
+    border-radius: 220px;
+    justify-content: space-around;
+    margin-top: 0px;
+    padding-bottom: 21px;
+    display: flex;
+}
+
+.patek img{
+    border-radius: 21px;
+    width: 200px;
+}
+
+
+.CenterMe {
+border-radius: 2px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: #D8C197;
+ color: #ebebeb;
+ font-size: 2rem;
+ text-transform: uppercase;
+ height: 50px;
+ display: flex;
+ justify-content: center;
+}
+
+
+
+.MenuWrap {
+    border-radius: 2px;
+    background-color: #D8C197;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+   }
+   .ListItem,
+   .LastItem {
+    color: #ebebeb;
+    text-decoration: none;
+   }
+   .ListItem {
+    margin-right: 1rem;
+   }
+   .LastItem {
+    margin-left: auto;
+   }
+.gold1{
+background-color: #D8C197;
+border-radius: 21px;
+}
+.big1{
+    background-color: #ffffff;
+    font-size: 10px;
+    width: 78px;
+    text-align: center;
+    border-radius: 2px;
+    margin-left: 10px;
+
+}
+
+.big2{
+    display: flex;
+    margin-left: 10px;
+    font-size: 14px;
+    background-color: #9d865d;  
+    width: 110px;
+    height: 25px;
+    align-items: center;
+    border-radius: 4px;
+    justify-content: center;
+}
+
+.big3{
+    font-size: 15px;
+    width: 78px;
+    text-align: center;
+    border-radius: 2px;
+    margin-left: 10px;
+
+}
+   

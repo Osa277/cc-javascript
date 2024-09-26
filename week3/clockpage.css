@@ -1,0 +1,45 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+   
+}
+
+.hero{
+    display: flex;
+    height: 80vh;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.subject{
+
+    padding: 50px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around; */
+    gap: 30px;
+}
+
+.image1 img{
+    width: 350px;
+}
+/* .image1{
+    width: 30px;
+    margin: 24px;
+    margin-right: 10px;
+} */
+
+#time-e {
+    color: red;
+}

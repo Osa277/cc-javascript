@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+</head>
+<body>
+    <button onclick="displayHello()">Click Me</button>
+    <h1>Click above to display</h1>
+    <script>
+        function displayHello(){
+    let heading=document.getElementsByTagName('h1')[0];
+        heading.innerHTML='Hello';}
+    </script>
+    <script src="events.js"></script>
+</body>
+</html>

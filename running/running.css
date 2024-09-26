@@ -1,0 +1,71 @@
+.CenterMe {
+    background-color: rgb(221, 179, 79);
+    color: #ebebeb;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   .MenuWrap {
+    background-color: rgb(26, 13, 35);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+   }
+   .ListItem,
+   .LastItem {
+    color: #a1ed56;
+    text-decoration: none;
+    
+   }
+   .ListItem {
+    margin-right: 1rem;
+   }
+   .LastItem {
+    margin-left: auto;
+   }
+
+   
+    
+.father{
+    padding: 21px;
+    /* display: flex; */
+    margin-left: 15px;
+    border-radius: 210px;
+    justify-content: space-around;
+    margin-top: 0px;
+    padding-bottom: 21px;
+}
+p{
+    border-radius: 20px;
+    background-color: aqua;
+    width: 160px;
+    height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-top: 3px;
+    box-sizing: border-box;
+    box-shadow: 112px;
+}
+.sone{
+    display: flex;
+    content: '';
+      background: #85da1d;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    right: 1px;
+}
+.pack{
+    display: flex;
+}
