@@ -1,0 +1,35 @@
+body{
+    /* background-color: aquamarine; */
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.pop-up{
+    position: fixed;
+    top: 15%;
+    left: 12%;
+    width: 70%;
+    background-color: pink;
+    padding: 40px;
+    border-radius: 10px;
+    display: none;
+}
+
+.pop-up box-icon{
+    float:right;
+    cursor:pointer;
+}
+
+#second{
+    background-color: darkcyan;
+    color: white;
+}
+
+#third{
+    background-color: darkslategrey;
+    color: lightblue;
+}
+.lorem{
+    display: none;
+}
